@@ -4,6 +4,8 @@ lensfun/
 *.jpg
 ttt/*
 lll/*
+pre-processing/final/*
+final/*
 External\ Libraries/*
 .idea/AbinBEV.iml
 .idea/misc.xml
